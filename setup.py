@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='py_setup',
-   version='1.0.0-2',
+   version='1.0.0-3',
    description='Play with Python Setup',
    author='Ruben LINDER',
    author_email='ruben.linder@7asecond.com',
